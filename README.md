@@ -1,1 +1,11 @@
 # docker-aspnetcore-node
++ docker-aspnetcore
++ node
++ sqlite3
++ libsqlite3-dev
++ build-essential
++ libssl-dev
++ libffi-dev
++ python-dev
++ ssh
++ sshpass
