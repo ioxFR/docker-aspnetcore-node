@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore
+FROM microsoft/dotnet:2.2-aspnetcore-runtime
 
 #Install node
 ENV NODE_VERSION 9.1.0
