@@ -1,5 +1,5 @@
-# docker-aspnetcore-node
-+ docker-aspnetcore
+# docker-aspnetcore-node-SDK
++ docker-aspnetcore-SDK
 + node
 + sqlite3
 + libsqlite3-dev
