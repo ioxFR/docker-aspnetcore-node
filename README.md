@@ -1,6 +1,6 @@
 # docker-aspnetcore-node-SDK
 + docker-aspnetcore-SDK
-+ node
++ node LTS
 + sqlite3
 + libsqlite3-dev
 + build-essential
@@ -9,3 +9,4 @@
 + python-dev
 + ssh
 + sshpass
++ TypeScript 3.X
